@@ -18,15 +18,15 @@ You will have the following options for normal users.
 
 In order to create a player in Vmenu, you will select mp ped customization in player related options.
 
-![MPCustomize](../img/vmenu-ped.jpg)
+![MPCustomize](../../img/vmenu-ped.jpg)
 
 Then you will click on either Create Male Character, or Create Female Character.
 
-![MPPickGender](../img/vmenu-ped2.jpg)
+![MPPickGender](../../img/vmenu-ped2.jpg)
 
 After selecting the gender of you ped you will then be given the options, to choose appearance, tattoos, clothes, and props.
 
-![MPcreateped](../img/vmenu-createped.jpg)
+![MPcreateped](../../img/vmenu-createped.jpg)
 
 After creating your character, make sure you save it, it will close after. Make sure you give it a name you will remember. 
 !!! tip
@@ -36,39 +36,20 @@ After creating your character, make sure you save it, it will close after. Make 
 
 In order to edit a player in Vmenu, you will select mp ped customization in player related options.
 
-![MPCustomize](../img/vmenu-ped.jpg)
+![MPCustomize](../../img/vmenu-ped.jpg)
 
 Then you will need to click on Saved Peds
 
-![MPPickoption](../img/vmenu-ped2.jpg)
+![MPPickoption](../../img/vmenu-ped2.jpg)
 
 Then select the saved ped to edit.
 
-![MPPickoption](../img/savedped.jpg)
-
-## Spawning weapons in Vmenu
-
-In order to get weapons in Vmenu, you will select weapon options in player related options.
-
-![MPCustomize](../img/vmenu-ped.jpg)
-
-afterwards you may click on spawn by name, or go thought each category and spawn the weapons you would like.
-
-![MPCustomize](../img/weapons.jpg)
-
-### Saving as a loadout.
-to save you weapons in a loadout you will need to click on weapon loadouts in player related options
-
-![MPCustomize](../img/vmenu-ped.jpg)
-
-then you will select save loadout to save the loadout you have. Edit the load out, to edit your saved loadouts
-
-![MPLoadout](../img/loadouts.jpg)
+![MPPickoption](../../img/savedped.jpg)
 
 ## Spawning vehicles in Vmenu
 In order to spawn vehicles in Vmenu, you will need to select vehicle options.
 
-![MPCustomize](../img/veh.jpg)
+![MPCustomize](../../img/veh.jpg)
 
 ### Vehicle Options
 

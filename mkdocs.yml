@@ -24,7 +24,6 @@ plugins:
 
 nav:
   - Home: 'index.md'
-  - Change Log: 'changelog/v1.0.0.md'
   - Version 1.0: '1.0/index.md'
   - Version 2.0:
     - Home: '2.0/index.md'
