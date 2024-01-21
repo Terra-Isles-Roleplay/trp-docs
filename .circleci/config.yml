@@ -25,6 +25,9 @@ jobs:
       - add_ssh_keys:
           fingerprints:
               - "SHA256:XQmDS6cMApIclvImbGm+BpMWfRGHKm809bjgx63E3Uw"
+              - "SHA256:CIFVblCFM3FsNTtha6DvIrX0mEgO2qp/yneBnkjoYvA"
+              - "SHA256:xguyZq0Tbs109QfREP2Ulm51Nx2cKM4itg7S0epyRQg"
+              - "SHA256:Ziubt3UHmcRZkZ4PoZcMEQdXhthimezX74j3IECGLNo"
       - run:
           name: Deploy docs
           command: |
