@@ -18,15 +18,15 @@ You will have the following options for normal users.
 
 In order to create a player in Vmenu, you will select mp ped customization in player related options.
 
-![MPCustomize](../../img/vmenu-ped.jpg)
+![MPCustomize](img/vmenu-ped.jpg)
 
 Then you will click on either Create Male Character, or Create Female Character.
 
-![MPPickGender](../../img/vmenu-ped2.jpg)
+![MPPickGender](img/vmenu-ped2.jpg)
 
 After selecting the gender of you ped you will then be given the options, to choose appearance, tattoos, clothes, and props.
 
-![MPcreateped](../../img/vmenu-createped.jpg)
+![MPcreateped](img/vmenu-createped.jpg)
 
 After creating your character, make sure you save it, it will close after. Make sure you give it a name you will remember. 
 !!! tip
@@ -36,20 +36,20 @@ After creating your character, make sure you save it, it will close after. Make 
 
 In order to edit a player in Vmenu, you will select mp ped customization in player related options.
 
-![MPCustomize](../../img/vmenu-ped.jpg)
+![MPCustomize](img/vmenu-ped.jpg)
 
 Then you will need to click on Saved Peds
 
-![MPPickoption](../../img/vmenu-ped2.jpg)
+![MPPickoption](img/vmenu-ped2.jpg)
 
 Then select the saved ped to edit.
 
-![MPPickoption](../../img/savedped.jpg)
+![MPPickoption](img/savedped.jpg)
 
 ## Spawning vehicles in Vmenu
 In order to spawn vehicles in Vmenu, you will need to select vehicle options.
 
-![MPCustomize](../../img/veh.jpg)
+![MPCustomize](img/veh.jpg)
 
 ### Vehicle Options
 
