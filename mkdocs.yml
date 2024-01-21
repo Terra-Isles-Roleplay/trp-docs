@@ -1,0 +1,40 @@
+site_name: 'TRP Documentation'
+site_description: 'Welcome to the TRP documentation'
+site_author: 'TRP'
+site_url: ''
+copyright: 'Copyright © 2024 TRP'
+theme:
+  name: 'material'
+  palette:
+    primary: 'indigo'
+    accent: 'blue'
+  feature:
+    tabs: true
+
+markdown_extensions:
+  - admonition
+  - meta
+  - codehilite
+  - toc
+  - footnotes
+  - attr_list
+
+plugins:
+    - search
+
+nav:
+  - Home: 'index.md'
+  - Change Log: 'changelog/v1.0.0.md'
+  - Get Started: 'start.md'
+  - Vehicle List:
+    - 'vehicles/leo.md'
+    - 'vehicles/fire-ems.md'
+    - 'vehicles/civ.md'
+  - Scripts:
+    - Radio: 'scripts/radio.md'
+  - Commands:
+    - SASO: 'cmds/leo.md'
+    - SAFR: 'cmds/fire-ems.md'
+    - CIV: 'cmds/civ.md'
+  
+
