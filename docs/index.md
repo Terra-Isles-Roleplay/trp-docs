@@ -19,3 +19,5 @@ You can find all the changelogs supported below.
 [v2.0](2.0/changelog.md) - Our Current Server that is supported.
 [v3.0](3.0/changelog.md) - Our QB Core Development server that is currently being built. (Coming Soon)
 
+## Status
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Terra-Isles-Roleplay/trp-docs/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Terra-Isles-Roleplay/trp-docs/tree/main)
