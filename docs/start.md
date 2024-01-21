@@ -10,7 +10,7 @@ Below you will find the steps to start playing on our servers.
 
 
 !!! tip
-    Check your kybinds in Settings - FiveM. Most of our sripts allow you set your own key binds. You can also remove some of the keybinds that you dont use.
+    Check your keybinds in Settings - FiveM. Most of our sripts allow you set your own key binds. You can also remove some of the keybinds that you dont use.
 
 
 

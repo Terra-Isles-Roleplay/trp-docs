@@ -1,7 +1,7 @@
 site_name: 'TRP Documentation'
 site_description: 'Welcome to the TRP documentation'
 site_author: 'TRP'
-site_url: ''
+site_url: 'https://terra-isles-roleplay.github.io/trp-docs'
 copyright: 'Copyright © 2024 TRP'
 theme:
   name: 'material'
