@@ -25,16 +25,23 @@ plugins:
 nav:
   - Home: 'index.md'
   - Change Log: 'changelog/v1.0.0.md'
-  - Get Started: 'start.md'
-  - Vehicle List:
-    - 'vehicles/leo.md'
-    - 'vehicles/fire-ems.md'
-    - 'vehicles/civ.md'
-  - Scripts:
-    - Radio: 'scripts/radio.md'
-  - Commands:
-    - SASO: 'cmds/leo.md'
-    - SAFR: 'cmds/fire-ems.md'
-    - CIV: 'cmds/civ.md'
+  - Version 1.0: '1.0/index.md'
+  - Version 2.0:
+    - Home: '2.0/index.md'
+    - Get Started: '2.0/start.md'
+    - Changelog: '2.0/changelog.md'
+    - Commands: 
+      - 'cmds/leo.md'
+      - 'cmds/fire-ems.md'
+      - 'cmds/civ.md'
+    - Scripts:
+      - Radio: 'scripts/radio.md'
+    - Vehicles:
+      - 'vehicles/leo.md'
+      - 'vehicles/fire-ems.md'
+      - 'vehicles/civ.md'
+  - Version 3.0:
+    - Home: '3.0/index.md'
+    - Changelog: '3.0/changelog.md'
   
 

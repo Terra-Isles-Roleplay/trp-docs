@@ -8,7 +8,14 @@
 
 To be added.
 
-## Brief history
+## Versions
+[V1.0](1.0/index.md) - No longer used and has been archived.
+[V2.0](2.0/index.md) - Current Verison using ND Core.
+[V3.0](3.0/index.md) - Our up and coming QB Core Server.
 
-To be added.
+## Changelog
+You can find all the changelogs supported below.
+[v1.0](#) - None Listed
+[v2.0](2.0/changelog.md) - Our Current Server that is supported.
+[v3.0](3.0/changelog.md) - Our QB Core Development server that is currently being built. (Coming Soon)
 

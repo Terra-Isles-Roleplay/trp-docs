@@ -1,5 +1,5 @@
 # SCNP25 Radio
-We now use a Radio Plugin called SAPR, this allows for a better roleplay experience.
+We now use a radio script called SCNP 25, this allows for a better roleplay experience.
 
 ## User Guide
 Coming Soon

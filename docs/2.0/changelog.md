@@ -1,4 +1,4 @@
-# [1.0] - Coming Soon
+# [2.0] - Coming Soon
 
 ## Added
 
