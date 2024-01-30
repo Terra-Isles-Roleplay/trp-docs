@@ -17,7 +17,8 @@
 | TBA | polmav | ✓ | ✓ |
 | TBA | sapuma | ✓ | ✓ |
 | TBA | wildfireheli | ✓ | ✓ |
-| TBA | TBA | ✓ | ✓ |
+| Trailers |
+| Gator Trailer | gatortrailer | ✓ | ✓ |
 | TBA | TBA | ✓ | ✓ |
 | TBA | TBA | ✓ | ✓ |
 | TBA | TBA | ✓ | ✓ |
