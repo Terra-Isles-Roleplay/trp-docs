@@ -21,6 +21,7 @@ Talk groups are like channels, which is what we use to communicate with other un
 | SASP / SASP-Next | Zone1 | TBD | TBD | ✓ | 
 | Civilian Channels |
 | SASP / SASP-Next | Zone1 | Davis | Davis Dispatch Operations | ✓ | 
+
 ## Scan Lists
 We have a set of Talk groups which can be used in game aswell as just in teamspeak.
 
