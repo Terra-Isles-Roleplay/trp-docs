@@ -8,7 +8,7 @@ Coming Soon
 Talk groups are like channels, which is what we use to communicate with other units and departments.
 
 | Radio | Zone | Channel | Description | Active | 
-| ----- | ------- | ----------- | ------ |
+| ----- | ---- | ------- | ----------- | ------ |
 | San Andreas State Police Channels |
 | SASP / SASP-Next | Zone1 | Davis | Davis Dispatch Operations | ✓ |
 | SASP / SASP-Next | Zone1 | TBD | TBD | ✓ | 
