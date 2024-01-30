@@ -30,15 +30,16 @@ nav:
     - Get Started: '2.0/start.md'
     - Changelog: '2.0/changelog.md'
     - Commands: 
-      - 'cmds/leo.md'
-      - 'cmds/fire-ems.md'
-      - 'cmds/civ.md'
+      - '2.0/cmds/leo.md'
+      - '2.0/cmds/fire-ems.md'
+      - '2.0/cmds/civ.md'
     - Scripts:
-      - Radio: 'scripts/radio.md'
+      - Radio: '2.0/scripts/radio.md'
     - Vehicles:
-      - 'vehicles/leo.md'
-      - 'vehicles/fire-ems.md'
-      - 'vehicles/civ.md'
+      - '2.0/vehicles/leo.md'
+      - '2.0/vehicles/fire-ems.md'
+      - '2.0/vehicles/shared.md'
+      - '2.0/vehicles/civ.md'
   - Version 3.0:
     - Home: '3.0/index.md'
     - Changelog: '3.0/changelog.md'
