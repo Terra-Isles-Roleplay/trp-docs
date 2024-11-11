@@ -24,24 +24,26 @@ plugins:
 
 nav:
   - Home: 'index.md'
-  - Version 1.0: '1.0/index.md'
-  - Version 2.0:
-    - Home: '2.0/index.md'
-    - Get Started: '2.0/start.md'
-    - Changelog: '2.0/changelog.md'
-    - Commands: 
-      - '2.0/cmds/leo.md'
-      - '2.0/cmds/fire-ems.md'
-      - '2.0/cmds/civ.md'
-    - Scripts:
-      - Radio: '2.0/scripts/radio.md'
-    - Vehicles:
-      - '2.0/vehicles/leo.md'
-      - '2.0/vehicles/fire-ems.md'
-      - '2.0/vehicles/shared.md'
-      - '2.0/vehicles/civ.md'
-  - Version 3.0:
-    - Home: '3.0/index.md'
-    - Changelog: '3.0/changelog.md'
+  - FiveM:
+    - Version 1.0: 'fivem/1.0/index.md'
+    - Version 2.0:
+      - Home: 'fivem/2.0/index.md'
+      - Get Started: 'fivem/2.0/start.md'
+      - Changelog: 'fivem/2.0/changelog.md'
+      - Commands: 
+        - 'fivem/2.0/cmds/leo.md'
+        - 'fivem/2.0/cmds/fire-ems.md'
+        - 'fivem/2.0/cmds/civ.md'
+      - Scripts:
+        - Radio: 'fivem/2.0/scripts/radio.md'
+      - Vehicles:
+        - 'fivem/2.0/vehicles/leo.md'
+        - 'fivem/2.0/vehicles/fire-ems.md'
+        - 'fivem/2.0/vehicles/shared.md'
+        - 'fivem/2.0/vehicles/civ.md'
+    - Version 3.0:
+      - Home: 'fivem/3.0/index.md'
+      - Changelog: 'fivem/3.0/changelog.md'
+  - CAD: 'cad-mdt/index.md'
   
 
